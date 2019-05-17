@@ -6,7 +6,7 @@ const App = () => {
     <div className="ui container">
       <PostList/>
     </div>
-  )
-}
+  );
+};
 
 export default App;
